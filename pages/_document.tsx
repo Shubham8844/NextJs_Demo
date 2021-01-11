@@ -1,6 +1,5 @@
 import react from "react"
 import Document,{Html,Head,NextScript,Main} from "next/document"
-
 export default class CustomDocument extends Document{
     render(){
         return(

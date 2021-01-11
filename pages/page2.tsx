@@ -1,9 +1,9 @@
 import React from 'react'
-import rando from "../styles/Page2.module.css"
+import styles from "../styles/Page2.module.css"
 
 function page2() {
     return (
-        <div className={rando.container}>
+        <div className={styles.container}>
             <h1>Hi </h1>
             <h1>There</h1>
         </div>
